@@ -20,3 +20,6 @@ myapi.key
 xv6.out*
 .vagrant/
 submissions/
+gradelib.pyc
+.idea/
+**/.clion.source.upload.marker
